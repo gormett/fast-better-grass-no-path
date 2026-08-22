@@ -1,9 +1,6 @@
 {
     "pack": {
-        "description": {
-            "translate": "fo.resourcePack.fastbettergrass",
-            "fallback": "OptiFine's Better Grass (fast)§r\n§4Must be the first to work"
-        },
+        "description": "Fast Better Grass no Grass Path§r\n§cMust be the first to work",
         "pack_format": 15,
         "min_format": 15,
         "max_format": 88,
